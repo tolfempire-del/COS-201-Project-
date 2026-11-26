@@ -7,7 +7,7 @@ public class Fibonacci {
             System.out.println(first);
             int next = first + second;
             first = second;
-            second = next
+            second = next;
         }
     }
 }
